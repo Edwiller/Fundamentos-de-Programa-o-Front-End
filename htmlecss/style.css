@@ -1,0 +1,26 @@
+ h1,p {
+            color: blue;
+        }
+
+        p a {
+            color: green;
+        }
+h1{
+    background: black;
+    color:white
+}
+a {
+    background-color: seagreen;
+    color:white
+}
+.codigo {
+    color:blue;
+}
+
+.design{
+    color: red;
+}
+
+.underline{
+    text-decoration: underline;
+}
